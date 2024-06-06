@@ -1,16 +1,29 @@
 # flappy_bird
 
-A new Flutter project.
+A simple project creating the flappy bird game using flutter/dart.
 
-## Getting Started
+## Installation
+pls run the package for config file.
 
-This project is a starting point for a Flutter application.
+flutter pub get
+flutter pub run flutter_launcher_icons
 
-A few resources to get you started if this is your first Flutter project:
+## Main contents
+main.dart
+(redirects to homepage)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+homepage.dart
+(front page ui)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+main_page.dart
+(main code)
+
+bird.dart
+(setting up the bird img)
+
+barriers.dart
+(setting up the barriers)
+
+pubspec.yaml
+(config file)
+
