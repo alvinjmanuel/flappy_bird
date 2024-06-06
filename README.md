@@ -6,6 +6,7 @@ A simple project creating the flappy bird game using flutter/dart.
 pls run the package for config file.
 
 flutter pub get
+
 flutter pub run flutter_launcher_icons
 
 ## Main contents
